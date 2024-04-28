@@ -22,12 +22,12 @@
 - <b>Data Science</b>
   - [Praciting DS & Algos in Python](LABURL)
 
-<h3>Projects from Bachelor's Studies</h3>
+<h3>Projects from Bachelor's Studies 🎓</h3>
 
 - <b>My Bachelor's Thesis (only in Polish language)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>📺 Certificates </h2>
+<h2>📜 Certificates </h2>
 - <b>Certificate 1 Description (e.g., Python Fundamentals)</b>
 
 - [Link to Certificate 1](https://example.com/certificate1)
