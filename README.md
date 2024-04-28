@@ -38,11 +38,11 @@
 
 <h2> 📫 Contact with me:</h2>
 
-[<img align="left" alt="HerrDavey | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:david.bakalarczyk00@gmail.com)
 [<img align="left" alt="HerrDavey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="HerrDavey | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:david.bakalarczyk00@gmail.com)
 [<img align="left" alt="HerrDavey | Code Wars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codewars.svg" />][codewars]
 
-[gmail]: https://github.com/HerrDavey
 [linkedin]: https://www.linkedin.com/in/david-bakalarczyk-04285b199/
+[gmail]: https://github.com/HerrDavey
 [codewars]: https://www.codewars.com/users/SirDavey
 
