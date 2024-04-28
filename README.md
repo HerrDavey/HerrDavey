@@ -28,11 +28,13 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📜 Certificates </h2>
-- <b>Certificate 1 Description (e.g., Python Fundamentals)</b>
 
+- <b>Certificate 1 Description (e.g., Python Fundamentals)</b>
 - [Link to Certificate 1](https://example.com/certificate1)
 - Certificate 2 Description (e.g., Data Analysis with Python)
 - [Link to Certificate 2](https://example.com/certificate2)
+
+<h2>🗣️ Languages </h2>
 
 
 <h2> 📫 Contact with me:</h2>
