@@ -7,21 +7,20 @@
 - <b>Certificates</b><br>
 - <b>Contact with Me</b>
 
-
 <h2>👨‍💻 My Software Engineering Projects</h2>
 
 <h3>Python Projects Section 🐍</h3>
 
 - <b>Web Development</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](LABURL)
 - <b>Scripting</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](LABURL)
 - <b>Automation and Web Scraping</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](LABURL)
 - <b>Games</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](LABURL)
 - <b>Data Science</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](LABURL)
 
 <h3>Projects from Bachelor's Studies</h3>
 
