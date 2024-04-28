@@ -2,9 +2,10 @@
 
 <h2>📝 Table of Content</h2>
 
-- <b>Software Engineering Projects</b><br>
+- <b>Software Engineering Projects</b>
 - <b>Projects from Bachelor's Studies</b>
-- <b>Certificates</b><br>
+- <b>Certificates</b>
+- <b>Languages</b>
 - <b>Contact with Me</b>
 
 <h2>👨‍💻 My Software Engineering Projects</h2>
