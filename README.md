@@ -10,7 +10,7 @@
 
 <h2>👨‍💻 My Software Engineering Projects</h2>
 
-<h3>Python Projects Section</h3>
+<h3>Python Projects Section 🐍</h3>
 
 - <b>Web Development</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
