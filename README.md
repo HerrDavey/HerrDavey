@@ -36,6 +36,9 @@
 
 <h2>🗣️ Languages </h2>
 
+<img align="center" width="35px" src="https://flagpedia.net/data/flags/emoji/openmoji/256x256/pl.png" />: Native Speaker<br>
+<img align="center" width="35px" src="https://flagpedia.net/data/flags/emoji/openmoji/256x256/gb.png" />: B1/B2<br>
+<img align="center" width="35px" src="https://flagpedia.net/data/flags/emoji/openmoji/256x256/de.png" />: A1
 
 <h2> 📫 Contact with me:</h2>
 
