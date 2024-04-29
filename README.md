@@ -15,7 +15,7 @@
 - <b>Web Development</b>
   - [Praciting DS & Algos in Python](LABURL)
 - <b>Scripting</b>
-  - [Praciting DS & Algos in Python](LABURL)
+  - [Text to Morse Code Converter](https://github.com/HerrDavey/TextConversionToMorse.git)
 - <b>Automation and Web Scraping</b>
   - [Praciting DS & Algos in Python](LABURL)
 - <b>Games</b>
