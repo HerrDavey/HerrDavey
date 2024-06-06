@@ -13,7 +13,7 @@
 <h3>Python Projects Section 🐍</h3>
 
 - <b>Web Development</b>
-  - [My Data Analysis Website](https://github.com/HerrDavey/WebsiteOfDataAnalyst)
+  - [Data Analysis Website](https://github.com/HerrDavey/WebsiteOfDataAnalyst)
 - <b>Scripting</b>
   - [Text to Morse Code Converter](https://github.com/HerrDavey/TextConversionToMorse.git)
 - <b>Automation and Web Scraping</b>
@@ -30,7 +30,7 @@
 
 <h2>📜 Certificates </h2>
 
-- <b>Bachelor's diploma</b> (AGH University of Science and Technology in Cracow)
+- <b>Bachelor's diploma - Computer Science and Econometrics</b> (AGH University of Science and Technology in Cracow)
 
 <h2>🗣️ Languages </h2>
 
