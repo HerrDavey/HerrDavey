@@ -13,7 +13,7 @@
 <h3>Python Projects Section 🐍</h3>
 
 - <b>Web Development</b>
-  - [Data Analysis Website](https://github.com/HerrDavey/WebsiteOfDataAnalyst)
+  - [Data Analyst Website](https://github.com/HerrDavey/WebsiteOfDataAnalyst)
 - <b>Scripting</b>
   - [Text to Morse Code Converter](https://github.com/HerrDavey/TextConversionToMorse.git)
 - <b>Automation and Web Scraping</b>
