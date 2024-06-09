@@ -19,7 +19,7 @@
 - <b>Automation and Web Scraping</b>
   - [In progress]
 - <b>Games</b>
-  - [In progress]
+  - [Tic Tac Toe Game in Terminal](https://github.com/HerrDavey/TicTacToe-Game)
 - <b>Data Science</b>
   - [In progress]
 
