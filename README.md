@@ -22,6 +22,8 @@
   - [Tic Tac Toe Game in Terminal](https://github.com/HerrDavey/TicTacToe-Game)
 - <b>Data Science</b>
   - [In progress]
+- <b>GUI</b>
+  - [Watermark your Image](https://github.com/HerrDavey/Watermark_ImageApp) (currently working on)
 
 <h2>Projects from Bachelor's Studies 🎓</h2>
 
