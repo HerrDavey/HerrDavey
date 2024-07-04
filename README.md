@@ -1,4 +1,4 @@
-<h1>Hi, I'm David! <br/><a href="https://github.com/HerrDavey">Programmer</a>, <a href="LABURL">Data Analyst</a>, <a href="LABURL">Computer Science Student</a></h1>
+<h1>Hi, I'm David! <br/>Programmer, Data Analyst, Computer Science Student</h1>
 
 <h2>📝 Table of Content</h2>
 
