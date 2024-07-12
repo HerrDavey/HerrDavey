@@ -24,7 +24,7 @@
   - [In progress]
 - <b>GUI</b>
   - [Watermark your Image](https://github.com/HerrDavey/Watermark_ImageApp)
-  - [Typing Speed App](https://github.com/HerrDavey/Watermark_ImageApp)
+  - [Typing Speed App](https://github.com/HerrDavey/Typing_speed_test) (Currently in process)
 
 <h2>Projects from Bachelor's Studies 🎓</h2>
 
