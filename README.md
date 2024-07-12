@@ -23,7 +23,8 @@
 - <b>Data Science</b>
   - [In progress]
 - <b>GUI</b>
-  - [Watermark your Image](https://github.com/HerrDavey/Watermark_ImageApp) 
+  - [Watermark your Image](https://github.com/HerrDavey/Watermark_ImageApp)
+  - [Typing Speed App](https://github.com/HerrDavey/Watermark_ImageApp)
 
 <h2>Projects from Bachelor's Studies 🎓</h2>
 
