@@ -23,7 +23,7 @@
   - [Breakout Game] (Currently working on)
 - <b>Data Science</b>
   - [In progress]
-- <b>GUI</b>
+- <b>GUI Apps</b>
   - [Watermark your Image](https://github.com/HerrDavey/Watermark_ImageApp)
   - [Typing Speed App](https://github.com/HerrDavey/Typing_speed_test) 
 
