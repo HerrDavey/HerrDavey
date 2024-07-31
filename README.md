@@ -20,11 +20,12 @@
   - [In progress]
 - <b>Games</b>
   - [Tic Tac Toe Game in Terminal](https://github.com/HerrDavey/TicTacToe-Game)
+  - [Breakout Game] (Currently working on)
 - <b>Data Science</b>
   - [In progress]
 - <b>GUI</b>
   - [Watermark your Image](https://github.com/HerrDavey/Watermark_ImageApp)
-  - [Typing Speed App](https://github.com/HerrDavey/Typing_speed_test) (Currently in process)
+  - [Typing Speed App](https://github.com/HerrDavey/Typing_speed_test) 
 
 <h2>Projects from Bachelor's Studies 🎓</h2>
 
