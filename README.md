@@ -20,7 +20,7 @@
   - [In progress]
 - <b>Games</b>
   - [Tic Tac Toe Game in Terminal](https://github.com/HerrDavey/TicTacToe-Game)
-  - [Breakout Game] (Currently working on)
+  - [Breakout Game](https://github.com/HerrDavey/Breakout_Game) (Currently working on)
 - <b>Data Science</b>
   - [In progress]
 - <b>GUI Apps</b>
