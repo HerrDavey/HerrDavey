@@ -14,6 +14,7 @@
 
 - <b>Web Development</b>
   - [Data Analyst Website](https://github.com/HerrDavey/WebsiteOfDataAnalyst)
+  - [Laptop Friendly Places](facebook.com)
 - <b>Scripting</b>
   - [Text to Morse Code Converter](https://github.com/HerrDavey/TextConversionToMorse.git)
 - <b>Automation and Web Scraping</b>
